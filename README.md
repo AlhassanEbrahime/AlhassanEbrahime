@@ -1,12 +1,9 @@
-# Hi there
 [![MasterHead](https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif)]
 <h1 align="center">Hi 👋, I'm Al-hasan Ebrahiem</h1>
 <h3 align="center">A passionate Backend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1710947860~exp=1710948460~hmac=119cc985b09bce817b2c77e6b2e050f9a8b8a4237c0961695b317fb4b7ae92e2">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=8zeno8&label=Profile%20views&color=0e75b6&style=flat" alt="8zeno8" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=8zeno8" alt="8zeno8" /></a> </p>
 
 - 🌱 I’m currently learning **Django,React**
 
