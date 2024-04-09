@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Backend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1710947860~exp=1710948460~hmac=119cc985b09bce817b2c77e6b2e050f9a8b8a4237c0961695b317fb4b7ae92e2">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=8zeno8&label=Profile%20views&color=0e75b6&style=flat" alt="8zeno8" /> </p>
 
 - 🌱 I’m currently learning **Django,React**
 
