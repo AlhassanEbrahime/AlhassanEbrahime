@@ -6,16 +6,14 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0366D6&center=true&vCenter=true&width=435&lines=Backend+Developer;Python+Enthusiast;Competitive+Programmer)](https://git.io/typing-svg)
   
-  <p>🚀 Building robust backend solutions | 🐍 Python specialist | 💻 Problem solver</p>
+  <p>🚀 Building robust backend solutions | 💻 Problem solver</p>
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 👨‍💻 About Me
-- 🌱 Currently expanding my skills in **Django**, **Django REST Framework**, and **React**
-- 💼 Passionate about backend development and clean code architecture
-- 🏆 Active in competitive programming communities
-- 📫 Reach me at **sonanomail@gmail.com**
+- 🌱 Currently expanding my skills in **Software engineering** and **Cyber security**
+- 📫 Reach me at **alhassan.ebrahiem@outlook.com**
 
 <br>
 
@@ -62,24 +60,5 @@
   [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/xpe_hasan)
   [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/GonFreecss)
   [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/hasandp)
-  [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/hasnan_ebrahime)
-  [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/xpe_hasan)
-  [![HackerEarth](https://img.shields.io/badge/-HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@al-hasan)
 </div>
 
-## 🔗 Connect with me
-<div align="center">
-  <a href="https://discord.gg/xpe_hasan">
-    <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="mailto:sonanomail@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/AlhassanEbrahime">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlhassanEbrahime&style=flat-square&color=blue" alt="Profile views"/>
-</div>
