@@ -4,7 +4,8 @@
   
   # Al-hasan Ebrahiem
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0366D6&center=true&vCenter=true&width=435&lines=Product+Engineer)](https://git.io/typing-svg)
-  📫 Reach me at **alhassan.ebrahiem@outlook.com**  
+  
+  - 📫 Reach me at **alhassan.ebrahiem@outlook.com**  
 
   
 </div>
