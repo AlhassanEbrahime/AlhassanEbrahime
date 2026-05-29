@@ -3,6 +3,7 @@
   <img src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif" alt="MasterHead" width="100%">
   
   # Al-hasan Ebrahiem
+  📫 Reach me at **alhassan.ebrahiem@outlook.com**
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0366D6&center=true&vCenter=true&width=435&lines=Product+Engineer)](https://git.io/typing-svg)
   
@@ -13,7 +14,6 @@
 
 ## 👨‍💻 About Me
 - Currently expanding my skills in Software engineering, and <br> Cyber security
-- 📫 Reach me at **alhassan.ebrahiem@outlook.com**
 
 <br>
 
